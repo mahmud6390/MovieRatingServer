@@ -1,0 +1,461 @@
+/* CSS Document by Ohemod */
+*
+{
+	margin: 0px;
+	
+}
+.table {
+border-right: solid 1px #000;
+}
+
+.table tr, td {
+border: none;
+}
+#header{
+    padding: 10px;
+    height: 100px;
+    clear: both;
+}
+#body{
+    padding: 10px;
+    clear: both;
+}
+#footer{
+    padding: 10px;
+    height: 15px;
+    background-color: #eaeaea;
+    text-align: center;
+}
+body
+{
+	background: #fff url(../images/body_back2.jpg);
+}
+.container
+{
+	width: 950px;
+	height: auto;
+	margin: 0 auto;
+	background: #ccc;
+}
+
+.login_container
+{
+     width: 250px;
+     height: auto;
+     margin: auto;
+     border: 1px solid #ccc;
+     padding:  30px;
+}
+.login_container_top
+{
+     width: 950px;
+     height: 200px;
+}
+.login
+{
+	width: 550px;
+	height: auto;
+	margin: 10px auto;
+        text-align: center;
+}
+.login label{float: left;clear: both;}
+.login h4
+{
+	text-align: center;
+}
+
+.login input
+{
+	width: 80px;
+        height:20px;
+}
+
+.wall_upload
+{
+	width: 550px;
+	height: auto;
+	margin: 10px auto;
+        text-align: center;
+}
+.wall_upload input.file{
+    float: left;
+/*    width: 70px;*/
+/*    height: 25px;*/
+}
+
+.wall_upload label{float: left;clear: both;}
+.wall_upload h4
+{
+	text-align: center;
+}
+
+.wall_upload input
+{
+/*	width: 80px;*/
+/*        height:20px;*/
+}
+
+.wall_upload input.file{
+    float: left;
+/*    width: 70px;*/
+/*    height: 25px;*/
+}
+.tablehead{
+    background-color: #0099ff;
+    color: #ffffff;
+    font-weight: bold;
+}
+p, h1, h2
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+p
+{
+	color: #333333;
+	font-size: 12px;
+}
+
+a
+{
+	color: #0099FF;
+}
+
+a:hover
+{
+	color: #00CCCC;
+}
+
+.contai_ner
+{
+	width: 950px;
+	height: auto;
+	padding-top: 20px;
+	margin: auto;
+	background: #fff;
+}
+
+.header
+{
+	width: 950px;
+	height: 200px;
+	margin-bottom: 5px;
+}
+
+.h_left
+{
+	
+	width: 750px;
+	float: left;
+	height: 200px;
+}
+
+.cover_story
+{	
+	width: 155px;
+	float: right;
+	height: 200px;
+	text-align: right;
+	margin-right: 10px;
+}
+
+.h_left_top
+{
+	
+	width: 750px;
+	height: 100px;
+	background: #390;
+}
+
+.h_left_down{
+	
+	width: 780px;
+	height: 100px;
+}
+
+.logo{
+	
+	width: 300px;
+	height: 100px;
+	float: left;
+	background: #000 url(../images/pink_logo1.jpg);
+}
+
+.h_lft_down_right{
+	
+	width: 450px;
+	height: 100px;
+	float: right;
+	
+}
+
+.search{
+	
+	width: 200px;
+	height: 100px;
+	float:left;
+}
+
+.cover_text{
+	
+	width: 250px;
+	height:100px;
+	float: right;
+	text-align: right;
+	margin-top: 30px;
+	
+}
+.cover_text h3
+{
+	text-transform: uppercase;
+	color: #C00;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.cover_text h2
+{
+	color: #333;
+	font-size: 18px;
+	font-weight: normal;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.cover_text h4
+{
+	color: #666;
+	font-size: 16px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.m_menu
+{
+	width: 950px;
+	height: 30px;
+	background: #00c;
+}
+
+.latest
+{
+	width: 950px;
+	height: 30px;
+}
+
+.content_top
+{
+	width: 950px;
+	height: 355px;
+}
+
+.content_top_left{
+	width: 700px;
+	height: 355px;
+	float:left;
+}
+
+.scroller{
+	width: 460px;
+	height: 345px;
+	float:left;
+}
+
+#myGallery
+{
+	text-align: left;
+	margin: 0 auto;
+}
+
+.latest_news{
+	width: 218px;
+	height: 330px;
+	float:right;
+	padding: 10px;
+}
+.news
+{
+	width: 218px;
+	height: auto;
+	float: left;
+	border-bottom: 1px dotted #ccc;
+}
+
+.latest_news h2
+{
+	text-transform: uppercase;
+	font-size: 18px;
+	color: #666;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 5px;
+}
+
+.latest_news p
+{
+	padding-bottom: 5px;
+}
+
+.latest_news a
+{
+	color: #333;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.latest_news a:hover
+{
+	color: #000;
+}
+
+
+.content_top_right
+{
+	width: 250px;
+	height: 350px;
+	float:right;
+}
+
+.advertisment{
+	width: 230px;
+	height: 156px;
+	border: 1px solid #ccc;
+	margin-bottom:10px;
+	margin-right: 10px;
+	padding: 5px;
+}
+
+
+.fashion_accesories
+{
+	width: 930px;
+	height: 150px;
+	border: 1px solid #ccc;
+	margin: 0 10px 0 10px;
+}
+.content_bottom
+{
+	width: 950px;
+	height: 470px;
+}
+
+.content_bottom_left{
+	width:700px;
+	height: 470px;
+	float:left;
+}
+
+.showbiz{
+	width:450px;
+	height: 470px;
+	float:left;
+}
+
+.showbiz_sub
+{
+	width:430px;
+	height: 232px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.showbiz_pic
+{
+	float: left;
+	width: 170px;
+	height: 222px;
+	padding: 5px 0 5px 10px;
+}
+
+.showbiz_content
+{
+	float: right;
+	width: 240px;
+	height: 232px;
+}
+ 
+.showbiz_content h2
+{
+	color: #333;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: normal;
+	border-bottom: 1px solid #ccc;
+}
+
+.showbiz_content p
+{
+	color: #333;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: normal;
+	line-height: 18px;
+	text-align: justify;
+	font-size: 13px;
+	padding: 5px;
+}
+
+.regular{
+	width:250px;
+	height: 500px;
+	float:right;
+	margin-top: 10px;
+}
+
+.regular_sub{
+	width:250px;
+	height: 110px;
+	margin-bottom:5px;
+}
+
+.regular_pic
+{
+	float: left;
+	width: 90px;
+	height: 110px;
+}
+
+.regular_content
+{
+	float: right;
+	width: 155px;
+	height: 110px;
+}
+ 
+.regular_content h2
+{
+	color: #333;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: normal;
+	border-bottom: 1px solid #ccc;
+	font-size: 18px;
+}
+
+.regular_content p
+{
+	color: #333;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: normal;
+	line-height: 17px;
+	font-size: 13px;
+}
+
+
+.content_bottom_right{
+	width: 235px;
+	height: 455px;
+	float:right;
+	border: 1px solid #ccc;
+	margin: 10px 10px 0 0;
+}
+
+.footer
+{
+	width: 950px;
+	clear: both;
+	height: 20px;
+	margin-top: 10px;
+	border-top: 1px solid #ccc;
+}
+
+.thumb_image{
+    width: 100px;
+    height: 100px;
+}
